@@ -5,11 +5,11 @@ Use of the package once installed is:
 
 tfrrs -m [name of meet for filenaming] [tfrrs meet number] --men --women --individual --team --all
 
-Where the meet number can be found in the URL: https://www.tfrrs.org/results/xc/[meet number].html
+Where the meet number can be found at the end of a URL: https://www.tfrrs.org/results/xc/ [**meet number**] .html
 
 For example, to get the men's team results from the 2016 Wisconsin Nuttycombe Invitational:
 
-The results are located at: https://www.tfrrs.org/results/xc/9718.html
+The results are located at: https://www.tfrrs.org/results/xc/**9718**.html
 
 tfrrs -m wisco 9718 --men --team
 
